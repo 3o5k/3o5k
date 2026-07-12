@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Abdulmuhsen Almutairi
+# Abdulmohsen Almutairi
 ### Biochemist | Computational Biology Researcher | Data Scientist
 
 [![Email](https://img.shields.io/badge/Email-m7sen.1223%40gmail.com-blue?style=flat&logo=gmail)](mailto:m7sen.1223@gmail.com)
