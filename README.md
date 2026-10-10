@@ -43,7 +43,7 @@ Statistical pipeline for my MSc thesis on N-acetylcysteine in a rat model: assum
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python, Bash/Linux |
+| **Languages** | Python, R, Bash/Linux |
 | **Data analysis** | pandas, NumPy, SciPy, statsmodels, scikit-learn |
 | **Statistics** | ANOVA, Kruskal-Wallis, linear models, multiple-testing correction, enrichment testing, PCA, regression |
 | **Networks** | NetworkX, STRING API |
