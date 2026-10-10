@@ -49,8 +49,7 @@ Statistical pipeline for my MSc thesis on N-acetylcysteine in a rat model: assum
 | **Networks** | NetworkX, STRING API |
 | **Visualisation** | Matplotlib, Seaborn |
 | **Environment** | JupyterLab, Git, GitHub |
-| **Currently learning** | R, Bioconductor, DESeq2 |
-
+| **Currently learning** | Bioconductor, DESeq2 |
 ---
 
 ## Education
